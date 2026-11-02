@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GameVault — Discover Your Next Game</title>
+  <link rel="stylesheet" href="src/css/style.css">
+  <link rel="stylesheet" href="src/css/extensions.css">
+  <link rel="stylesheet" href="src/css/payment.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="GameVault Home"><span class="brand-icon">🎮</span> Game<span>Vault</span></a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Buka menu">☰</button>
+    <nav id="nav">
+      <a href="#home" class="nav-link active" data-page="home">Home</a>
+      <a href="#explore" class="nav-link" data-page="explore">Explore</a>
+      <a href="#genres" class="nav-link" data-page="genres">Genres</a>
+      <a href="#wishlist" class="nav-link" data-page="wishlist">Wishlist <span id="wishCount" class="count">0</span></a>
+    </nav>
+    <label class="searchbox"><span>⌕</span><input id="globalSearch" placeholder="Search games..." aria-label="Cari game" autocomplete="off"></label>
+  </header>
+
+  <main>
+    <section class="page active" id="home">
+      <div class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">FEATURED GAME</p>
+          <h1>The Legend of Zelda:<br>Tears of the Kingdom</h1>
+          <p>Jelajahi dunia luas yang dipenuhi misteri, tantangan, dan petualangan.</p>
+          <button class="btn" data-details="The Legend of Zelda: Tears of the Kingdom">Explore Details <span>→</span></button>
+        </div>
+        <div class="hero-art zelda-art" role="img" aria-label="Ilustrasi hero fantasi"></div>
+      </div>
+      <div class="section-heading"><div><p class="eyebrow">HAND-PICKED FOR YOU</p><h2>Popular Games</h2></div><button class="text-btn" data-go="explore">View all →</button></div>
+      <div class="game-grid" id="popularGrid"></div>
+      <div class="promo"><div class="promo-icon">🎮</div><div><h3>Discover New Worlds</h3><p>Temukan game favorit berikutnya dari koleksi pilihan kami.</p></div><button class="btn" data-go="explore">Browse All Games →</button></div>
+    </section>
+
+    <section class="page" id="explore">
+      <div class="page-banner"><p class="eyebrow">YOUR NEXT ADVENTURE STARTS HERE</p><h1>Explore Games</h1><p>Jelajahi koleksi game dari berbagai genre dan platform.</p></div>
+      <div class="filters">
+        <label class="searchbox filter-search"><span>⌕</span><input id="exploreSearch" placeholder="Cari judul, genre, atau tag..." aria-label="Cari katalog" autocomplete="off"></label>
+        <select id="genreFilter" aria-label="Filter genre"><option value="All">All genres</option><option>Action</option><option>Adventure</option><option>RPG</option><option>Horror</option><option>Racing</option><option>Strategy</option></select>
+        <select id="platformFilter" aria-label="Filter platform"><option value="All">All platforms</option><option>PC</option><option>PlayStation</option><option>Xbox</option><option>Nintendo Switch</option><option>Mobile</option></select>
+        <select id="sortFilter" aria-label="Urutkan"><option value="popular">Sort: Popular</option><option value="rating">Highest rated</option><option value="az">Name A–Z</option></select>
+      </div>
+      <div class="chips" id="genreChips">
+        <button class="chip selected" data-genre="All">All</button><button class="chip" data-genre="Action">Action</button><button class="chip" data-genre="Adventure">Adventure</button><button class="chip" data-genre="RPG">RPG</button><button class="chip" data-genre="Strategy">Strategy</button><button class="chip" data-genre="Racing">Racing</button><button class="chip" data-genre="Horror">Horror</button><button class="chip" data-genre="Shooter">Shooter</button><button class="chip" data-genre="Simulation">Simulation</button><button class="chip" data-genre="Sports">Sports</button><button class="chip" data-genre="Puzzle">Puzzle</button><button class="chip" data-genre="Sandbox">Sandbox</button><button class="chip" data-genre="Platformer">Platformer</button>
+      </div>
+      <div class="section-heading"><div><h2>Game Collection</h2><p class="muted" id="resultCount" aria-live="polite"></p><p class="muted age-note">Label usia memakai panduan ESRB sebagai referensi; klasifikasi resmi dapat berbeda menurut wilayah dan edisi game.</p></div></div>
+      <div class="game-grid" id="exploreGrid"></div>
+      <p class="empty-state hidden" id="emptyState">Game tidak ditemukan. Coba kata kunci atau filter lain.</p>
+    </section>
+
+    <section class="page" id="genres">
+      <div class="page-banner"><p class="eyebrow">FIND YOUR PLAY STYLE</p><h1>Browse by Genre</h1><p>Pilih genre yang sesuai dengan petualangan yang kamu cari.</p></div>
+      <div class="genre-grid">
+        <button class="genre-card" data-genre="Action"><span>⚔️</span><strong>Action</strong><small>Refleks dan adrenalin</small></button>
+        <button class="genre-card" data-genre="Adventure"><span>🧭</span><strong>Adventure</strong><small>Jelajahi dunia baru</small></button>
+        <button class="genre-card" data-genre="RPG"><span>🧙</span><strong>RPG</strong><small>Bangun kisahmu sendiri</small></button>
+        <button class="genre-card" data-genre="Horror"><span>🌑</span><strong>Horror</strong><small>Berani menghadapi ketakutan?</small></button>
+        <button class="genre-card" data-genre="Racing"><span>🏎️</span><strong>Racing</strong><small>Kecepatan tanpa batas</small></button>
+        <button class="genre-card" data-genre="Strategy"><span>♟️</span><strong>Strategy</strong><small>Rencanakan langkahmu</small></button>
+      </div>
+    </section>
+
+    <section class="page" id="wishlist">
+      <div class="page-banner compact"><p class="eyebrow">YOUR PERSONAL COLLECTION</p><h1>My Wishlist</h1><p>Game yang ingin kamu mainkan berikutnya.</p></div>
+      <div class="game-grid" id="wishlistGrid"></div>
+      <p class="empty-state" id="wishlistEmpty">Wishlist kamu masih kosong. Tekan ikon ♡ pada game untuk menyimpannya.</p>
+    </section>
+
+    <section class="page" id="details">
+      <button class="back-btn" id="backExplore">← Back to games</button>
+      <div class="detail-hero">
+        <div class="detail-cover" id="detailCover"></div>
+        <div class="detail-copy"><p class="eyebrow">GAME OVERVIEW</p><h1 id="detailTitle">Game title</h1><div class="rating large">★ <span id="detailRating"></span> <small>Community rating</small></div><div class="detail-tags" id="detailTags"></div><p id="detailDescription"></p><div class="platforms" id="detailPlatforms"></div><p class="release" id="detailRelease"></p><button class="btn" id="detailWish">♡ Add to Wishlist</button></div>
+      </div>
+      <div class="detail-info"><div class="panel"><h2>About This Game</h2><p id="detailAbout"></p></div><div class="panel"><h2>Game Info</h2><p><b>Genre:</b> <span id="detailGenre"></span></p><p><b>Platforms:</b> <span id="detailPlatformText"></span></p><p><b>Release:</b> <span id="detailReleaseText"></span></p></div></div>
+    </section>
+  </main>
+  <footer><a class="brand small" href="#home">🎮 Game<span>Vault</span></a><p>Discover your next game. <span>Demo frontend untuk project pembelajaran.</span></p></footer>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="src/js/database.js"></script>
+  <script src="src/js/script.js"></script>
+  <script src="src/js/extensions.js"></script>
+  <script src="src/js/payment.js"></script>
+</body>
+
+<div id="paymentModal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="paymentModalTitle">
+  <div class="modal">
+    <header class="modal-header">
+      <h2 id="paymentModalTitle">Checkout Game</h2>
+      <button type="button" class="modal-close" aria-label="Tutup modal pembayaran">&times;</button>
+    </header>
+    <div class="modal-body">
+      <div class="purchase-summary">
+        <div id="paymentThumb" class="purchase-thumb" role="img" aria-label="Sampul game"></div>
+        <div class="purchase-info">
+          <h3 id="paymentGameTitle">Game Title</h3>
+          <p class="price-note" id="paymentGameSubtitle"></p>
+          <p id="paymentGamePrice" class="purchase-price">Rp 0</p>
+        </div>
+      </div>
+      <div class="pay-breakdown" aria-label="Rincian pembayaran">
+        <div class="pay-row">
+          <span class="label">Harga Game</span>
+          <span id="payGamePrice" class="amount">Rp 0</span>
+        </div>
+        <div class="pay-row">
+          <span class="label">Biaya Penanganan</span>
+          <span class="amount">Rp 2.500</span>
+        </div>
+        <div class="pay-row total">
+          <span class="label">Total Bayar</span>
+          <span id="payTotalPrice" class="amount">Rp 0</span>
+        </div>
+      </div>
+      <div class="method-list" id="paymentMethods" role="radiogroup" aria-label="Metode pembayaran"></div>
+      <button type="button" id="paySubmitBtn" class="btn-primary">Bayar Sekarang</button>
+    </div>
+  </div>
+</div>
+</html>

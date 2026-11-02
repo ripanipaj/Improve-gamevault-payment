@@ -1,0 +1,15 @@
+{
+  "description": "Contoh bentuk data game untuk pengembangan UI dan pengujian.",
+  "example": {
+    "id": 999999,
+    "title": "Contoh Game",
+    "description": "Data contoh, bukan bagian katalog produksi.",
+    "release": "2026",
+    "rating": 8.0,
+    "ageRating": "T",
+    "image": "https://example.com/cover.jpg",
+    "platforms": ["PC"],
+    "genres": ["Adventure", "Indie"],
+    "tags": ["Demo"]
+  }
+}

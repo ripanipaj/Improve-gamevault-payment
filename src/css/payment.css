@@ -1,0 +1,147 @@
+/* Payment Gateway Modal Styles for GameVault */
+#paymentModal {
+  position: fixed;
+  inset: 0;
+  background: rgba(25, 30, 40, 0.78);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 16px;
+}
+#paymentModal .modal-overlay {
+  width: 100%;
+  max-width: 460px;
+}
+#paymentModal .modal {
+  background: #1a1f2a;
+  border: 1px solid #334053;
+  border-radius: 16px;
+  padding: 26px 24px 22px;
+  box-shadow: 0 18px 44px rgba(0, 0, 0, 0.5);
+  color: #e8ecf2;
+  animation: modalIn 0.18s ease-out;
+}
+@keyframes modalIn {
+  from { transform: translateY(12px); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
+#paymentModal .modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: -22px -24px 18px;
+  padding: 22px 24px 8px;
+  position: relative;
+}
+#paymentModal .modal-header::after {
+  content: "";
+  position: absolute;
+  left: 44px;
+  right: 0;
+  bottom: -1px;
+  height: 2px;
+  background: #334053;
+}
+#paymentModal .modal-header h2 {
+  margin: 0;
+  font-size: 20px;
+}
+#paymentModal .modal-close {
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 1;
+  color: #8aa3bd;
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  transition: background 0.15s;
+}
+#paymentModal .modal-close:hover { background: #2b3850; }
+#paymentModal .modal-body { padding: 0 24px 12px; }
+#paymentModal .purchase-summary {
+  display: flex;
+  gap: 14px;
+  margin-bottom: 20px;
+}
+#paymentModal .purchase-thumb {
+  width: 76px;
+  height: 76px;
+  border-radius: 12px;
+  background-size: cover;
+  background-position: center;
+  background-color: #263442;
+  flex-shrink: 0;
+}
+#paymentModal .purchase-info h3 { margin: 0 0 4px; font-size: 17px; }
+#paymentModal .purchase-price {
+  font-size: 19px;
+  font-weight: 700;
+  color: #f0c42c;
+  margin: 0;
+}
+#paymentModal .price-note { color: #8aa3bd; font-size: 12px; margin: 4px 0 0; }
+#paymentModal .pay-breakdown {
+  background: #232d3d;
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+#paymentModal .pay-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+}
+#paymentModal .pay-row.total {
+  border-top: 1px solid #2b3850;
+  margin-top: 8px;
+  padding-top: 12px;
+  font-weight: 700;
+  color: #fff;
+}
+#paymentModal .pay-row .label { color: #8aa3bd; }
+#paymentModal .method-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+#paymentModal .method-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border: 2px solid #2b3850;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+#paymentModal .method-item:hover { border-color: #4a617c; background: #222c3c; }
+#paymentModal .method-item input { accent-color: #f0c42c; width: auto; }
+#paymentModal .method-name { font-weight: 600; font-size: 15px; }
+#paymentModal .method-icon { font-size: 18px; }
+#paymentModal .btn-primary {
+  width: 100%;
+  min-height: 46px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: filter 0.15s, transform 0.08s;
+  background: #f0c42c;
+  color: #1a1f2a;
+}
+#paymentModal .btn-primary:hover { filter: brightness(1.08); }
+#paymentModal .btn-primary:active { transform: scale(0.99); }
+#paymentModal .btn-primary.loading {
+  opacity: 0.85;
+  pointer-events: none;
+}
+#paymentModal .hidden { display: none !important; }

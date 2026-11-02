@@ -1,0 +1,6878 @@
+[
+  {
+    "id": 1,
+    "title": "Cyberpunk 2077",
+    "genre": "Action",
+    "rating": 8.6,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "10 December 2020",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jelajahi Night City, kota futuristik penuh pilihan, karakter unik, dan cerita yang dapat kamu bentuk sendiri.",
+    "tags": [
+      "Open World",
+      "Sci-Fi",
+      "Action"
+    ],
+    "genres": [
+      "Action",
+      "RPG",
+      "Shooter",
+      "Adventure",
+      "Open World",
+      "Indie"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Red Dead Redemption 2",
+    "genre": "Action",
+    "rating": 9.4,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "26 October 2018",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Petualangan dunia terbuka di era koboi dengan cerita mendalam, karakter berkesan, dan lanskap luas.",
+    "tags": [
+      "Open World",
+      "Western",
+      "Story Rich"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter",
+      "Open World"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "God of War Ragnarök",
+    "genre": "Action",
+    "rating": 9.2,
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "release": "9 November 2022",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2322010/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Ikuti perjalanan Kratos dan Atreus menghadapi takdir serta ancaman para dewa dalam petualangan epik.",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Mythology"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Elden Ring",
+    "genre": "Action",
+    "rating": 9.5,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "25 February 2022",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "RPG aksi dunia terbuka yang menantang, dengan eksplorasi bebas, pertarungan intens, dan dunia fantasi luas.",
+    "tags": [
+      "RPG",
+      "Action",
+      "Open World"
+    ],
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure",
+      "Open World"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Resident Evil 4",
+    "genre": "Action",
+    "rating": 9.0,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "24 March 2023",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Hadapi teror dan teka-teki dalam petualangan survival horror dengan aksi yang menegangkan.",
+    "tags": [
+      "Horror",
+      "Survival",
+      "Action"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Shooter",
+      "Survival"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The Witcher 3: Wild Hunt",
+    "genre": "Action",
+    "rating": 9.3,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "19 May 2015",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Berperan sebagai pemburu monster Geralt dalam dunia fantasi dengan pilihan cerita yang berpengaruh.",
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "Open World"
+    ],
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure",
+      "Open World"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Horizon Zero Dawn Remastered",
+    "genre": "Action",
+    "rating": 8.8,
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "release": "31 October 2024",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1151640/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Temukan rahasia dunia masa depan tempat alam liar dan mesin raksasa hidup berdampingan.",
+    "tags": [
+      "Adventure",
+      "Sci-Fi",
+      "Open World"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Open World",
+      "Shooter"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Grand Theft Auto V",
+    "genre": "Action",
+    "rating": 8.9,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "17 September 2013",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jelajahi Los Santos, lakukan berbagai misi, dan nikmati dunia terbuka yang penuh aktivitas.",
+    "tags": [
+      "Action",
+      "Open World",
+      "Crime"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter",
+      "Open World"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Marvel's Spider-Man 2",
+    "genre": "Action",
+    "rating": 9.2,
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "release": "20 October 2023",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2651280/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Ayunkan jaring melintasi kota dan hadapi ancaman baru sebagai Spider-Man.",
+    "tags": [
+      "Action",
+      "Superhero",
+      "Adventure"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Forza Horizon 5",
+    "genre": "Racing",
+    "rating": 9.1,
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "release": "9 November 2021",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jelajahi lanskap Meksiko dengan koleksi mobil beragam dan balapan yang seru.",
+    "tags": [
+      "Racing",
+      "Open World",
+      "Cars"
+    ],
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Open World"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Baldur's Gate 3",
+    "genre": "RPG",
+    "rating": 9.6,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "3 August 2023",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "RPG berbasis pilihan dan strategi, tempat keputusanmu membentuk perjalanan kelompok.",
+    "tags": [
+      "RPG",
+      "Strategy",
+      "Fantasy"
+    ],
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Call of Duty: Modern Warfare III",
+    "genre": "Action",
+    "rating": 8.2,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "10 November 2023",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2519060/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Game aksi militer dengan misi sinematik dan mode multiplayer kompetitif.",
+    "tags": [
+      "Action",
+      "FPS",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Action",
+      "Shooter"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "The Last of Us Part I",
+    "genre": "Action",
+    "rating": 9.0,
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "release": "2 September 2022",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1888930/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Ikuti Joel dan Ellie bertahan hidup dalam perjalanan emosional di dunia pasca-apokaliptik.",
+    "tags": [
+      "Story Rich",
+      "Survival",
+      "Adventure"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Survival",
+      "Shooter"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Ghost of Tsushima DIRECTOR’S CUT",
+    "genre": "Action",
+    "rating": 9.1,
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "release": "20 August 2021",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2215430/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jadilah samurai di Pulau Tsushima dan lawan invasi dalam dunia terbuka yang indah.",
+    "tags": [
+      "Samurai",
+      "Open World",
+      "Action"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Open World"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Hogwarts Legacy",
+    "genre": "Action",
+    "rating": 8.5,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "10 February 2023",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jalani kehidupan sebagai murid Hogwarts dan temukan rahasia dunia sihir.",
+    "tags": [
+      "Fantasy",
+      "Magic",
+      "Adventure"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Open World"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Hollow Knight",
+    "genre": "Action",
+    "rating": 9.0,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "24 February 2017",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jelajahi kerajaan bawah tanah Hallownest dalam petualangan aksi bergaya metroidvania.",
+    "tags": [
+      "Metroidvania",
+      "Indie",
+      "Platformer"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer",
+      "Indie"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Stardew Valley",
+    "genre": "Simulation",
+    "rating": 9.2,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "26 February 2016",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Bangun pertanian, berteman dengan warga, memancing, dan jelajahi lembah yang damai.",
+    "tags": [
+      "Farming",
+      "Relaxing",
+      "Indie"
+    ],
+    "genres": [
+      "Simulation",
+      "RPG",
+      "Casual",
+      "Sandbox",
+      "Indie"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Minecraft",
+    "genre": "Sandbox",
+    "rating": 9.0,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "18 November 2011",
+    "image": "https://placehold.co/600x900/111827/e5e7eb?text=Minecraft",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Bangun apa pun yang kamu bayangkan, jelajahi dunia acak, dan bertahan hidup bersama teman.",
+    "tags": [
+      "Sandbox",
+      "Survival",
+      "Creative"
+    ],
+    "genres": [
+      "Sandbox",
+      "Survival",
+      "Adventure",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Terraria",
+    "genre": "Action",
+    "rating": 8.9,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "16 May 2011",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Gali, bertarung, bangun, dan temukan harta dalam dunia 2D yang luas.",
+    "tags": [
+      "Sandbox",
+      "Survival",
+      "Crafting"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sandbox",
+      "Survival",
+      "RPG",
+      "Indie"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Sekiro: Shadows Die Twice",
+    "genre": "Action",
+    "rating": 9.0,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "22 March 2019",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Kuasai pertarungan pedang presisi sebagai shinobi dalam kisah balas dendam di Jepang era Sengoku.",
+    "tags": [
+      "Soulslike",
+      "Action",
+      "Samurai"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Dark Souls III",
+    "genre": "Action",
+    "rating": 8.8,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "12 April 2016",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/374320/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Hadapi musuh tangguh dan jelajahi dunia gelap yang saling terhubung.",
+    "tags": [
+      "Soulslike",
+      "RPG",
+      "Fantasy"
+    ],
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Final Fantasy VII Remake Intergrade",
+    "genre": "Action",
+    "rating": 8.7,
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "release": "10 June 2021",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1462040/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Rasakan kembali kisah Cloud dan Avalanche dalam RPG aksi dengan pertarungan dinamis.",
+    "tags": [
+      "JRPG",
+      "Action",
+      "Story Rich"
+    ],
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Persona 5 Royal",
+    "genre": "RPG",
+    "rating": 9.2,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "21 October 2022",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1687950/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jalani kehidupan siswa sekaligus pencuri hati yang mengubah keinginan korup.",
+    "tags": [
+      "JRPG",
+      "Turn-Based",
+      "Anime"
+    ],
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Strategy"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Monster Hunter: World",
+    "genre": "Action",
+    "rating": 8.8,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "9 August 2018",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Buru monster raksasa, buat perlengkapan, dan berburu bersama teman.",
+    "tags": [
+      "Action",
+      "Co-op",
+      "Hunting"
+    ],
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Helldivers 2",
+    "genre": "Action",
+    "rating": 8.6,
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "release": "8 February 2024",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/553850/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Bekerja sama dalam misi kooperatif melawan ancaman alien demi Super Earth.",
+    "tags": [
+      "Co-op",
+      "Shooter",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Action",
+      "Shooter",
+      "Strategy"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Apex Legends",
+    "genre": "Action",
+    "rating": 8.4,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "4 February 2019",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Battle royale berbasis tim dengan karakter unik, kemampuan khusus, dan pertempuran cepat.",
+    "tags": [
+      "Battle Royale",
+      "FPS",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Action",
+      "Shooter"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Dota 2",
+    "genre": "Action",
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "9 July 2013",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "MOBA kompetitif dengan ratusan hero, strategi mendalam, dan pertandingan berbasis tim.",
+    "tags": [
+      "MOBA",
+      "Strategy",
+      "Competitive"
+    ],
+    "genres": [
+      "Action",
+      "Strategy",
+      "RPG"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Counter-Strike 2",
+    "genre": "Action",
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "27 September 2023",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "FPS taktis berbasis ronde yang mengutamakan kerja sama dan akurasi.",
+    "tags": [
+      "FPS",
+      "Competitive",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Action",
+      "Shooter"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Overwatch 2",
+    "genre": "Action",
+    "rating": 8.0,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "10 August 2023",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2357570/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Pertarungan tim berbasis hero dengan peran dan kemampuan yang beragam.",
+    "tags": [
+      "Hero Shooter",
+      "Team-Based",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Action",
+      "Shooter"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "The Sims 4",
+    "genre": "Simulation",
+    "rating": 8.1,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "2 September 2014",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Buat karakter, bangun rumah, dan kendalikan cerita kehidupan Sim-mu.",
+    "tags": [
+      "Life Sim",
+      "Building",
+      "Creative"
+    ],
+    "genres": [
+      "Simulation",
+      "Casual",
+      "Sandbox"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "EA SPORTS FC 25",
+    "genre": "Sports",
+    "rating": 7.8,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "27 September 2024",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2669320/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Bangun tim impian dan mainkan sepak bola dengan klub serta pemain favorit.",
+    "tags": [
+      "Football",
+      "Sports",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Sports",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "NBA 2K25",
+    "genre": "Sports",
+    "rating": 7.7,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "6 September 2024",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2878980/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Bawa tim menuju kemenangan dalam simulasi basket dengan mode karier dan kompetisi.",
+    "tags": [
+      "Basketball",
+      "Sports",
+      "Career"
+    ],
+    "genres": [
+      "Sports",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Sons of the Forest",
+    "genre": "Action",
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "23 February 2023",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1326470/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Bertahan hidup di pulau terpencil dengan membangun tempat berlindung dan menghadapi ancaman misterius.",
+    "tags": [
+      "Survival",
+      "Horror",
+      "Crafting"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Survival",
+      "Sandbox"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Phasmophobia",
+    "genre": "Horror",
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "18 September 2020",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/739630/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Selidiki lokasi berhantu bersama tim dan kumpulkan bukti aktivitas paranormal.",
+    "tags": [
+      "Co-op",
+      "Horror",
+      "Investigation"
+    ],
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Survival"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "It Takes Two",
+    "genre": "Action",
+    "rating": 9.0,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "25 March 2021",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Petualangan kooperatif dua pemain yang penuh teka-teki, tantangan, dan ide kreatif.",
+    "tags": [
+      "Co-op",
+      "Platformer",
+      "Adventure"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer",
+      "Puzzle"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Portal 2",
+    "genre": "Puzzle",
+    "rating": 9.3,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "18 April 2011",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Pecahkan teka-teki dengan portal dalam petualangan humor sci-fi yang cerdas.",
+    "tags": [
+      "Puzzle",
+      "Sci-Fi",
+      "Co-op"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Platformer",
+      "Indie"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Hades",
+    "genre": "Action",
+    "rating": 9.0,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "17 September 2020",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Bertarung keluar dari dunia bawah dalam roguelike aksi dengan cerita yang berkembang setiap percobaan.",
+    "tags": [
+      "Roguelike",
+      "Action",
+      "Indie"
+    ],
+    "genres": [
+      "Action",
+      "RPG",
+      "Roguelike",
+      "Indie"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Dead Cells",
+    "genre": "Action",
+    "rating": 8.6,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "6 August 2018",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/588650/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Roguelite aksi cepat dengan level yang berubah dan pertarungan yang menantang.",
+    "tags": [
+      "Roguelite",
+      "Platformer",
+      "Indie"
+    ],
+    "genres": [
+      "Action",
+      "RPG",
+      "Roguelike",
+      "Platformer",
+      "Indie"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Sea of Thieves",
+    "genre": "Action",
+    "rating": 8.2,
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PlayStation"
+    ],
+    "release": "20 March 2018",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1172620/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Berlayar bersama kru, mencari harta karun, dan menjalani petualangan bajak laut.",
+    "tags": [
+      "Pirates",
+      "Co-op",
+      "Open World"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sandbox",
+      "Open World"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "No Man’s Sky",
+    "genre": "Adventure",
+    "rating": 8.4,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "12 August 2016",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jelajahi semesta luas, temukan planet, bangun markas, dan bertahan hidup di luar angkasa.",
+    "tags": [
+      "Space",
+      "Exploration",
+      "Survival"
+    ],
+    "genres": [
+      "Adventure",
+      "Simulation",
+      "Sandbox",
+      "Survival",
+      "Open World"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Death Stranding Director’s Cut",
+    "genre": "Action",
+    "rating": 8.3,
+    "platforms": [
+      "PC",
+      "PlayStation"
+    ],
+    "release": "24 September 2021",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1850570/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Antarkan persediaan melintasi lanskap berbahaya untuk menyatukan kembali komunitas yang terpisah.",
+    "tags": [
+      "Adventure",
+      "Sci-Fi",
+      "Story Rich"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "genre": "RPG",
+    "rating": 9.0,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "28 October 2016",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/489830/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jelajahi dunia fantasi luas, ikuti guild, dan tentukan jalan petualanganmu sendiri.",
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "Open World"
+    ],
+    "genres": [
+      "RPG",
+      "Action",
+      "Adventure",
+      "Open World"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Far Cry 6",
+    "genre": "Action",
+    "rating": 7.9,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "7 October 2021",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2369390/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Lawan rezim diktator di pulau tropis Yara dengan senjata dan taktik gerilya.",
+    "tags": [
+      "FPS",
+      "Open World",
+      "Action"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter",
+      "Open World"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Assassin’s Creed Valhalla",
+    "genre": "Action",
+    "rating": 8.1,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox"
+    ],
+    "release": "10 November 2020",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208920/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Pimpin klan Viking, jelajahi Inggris, dan bangun permukiman dalam petualangan sejarah.",
+    "tags": [
+      "Open World",
+      "Stealth",
+      "Action"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Open World"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "DOOM Eternal",
+    "genre": "Action",
+    "rating": 8.8,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "release": "20 March 2020",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/782330/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Lawan gerombolan iblis dengan aksi FPS cepat, senjata brutal, dan musik intens.",
+    "tags": [
+      "FPS",
+      "Action",
+      "Sci-Fi"
+    ],
+    "genres": [
+      "Action",
+      "Shooter"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "genre": "Action",
+    "rating": 9.5,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "release": "12 May 2023",
+    "image": "https://placehold.co/600x900/111827/e5e7eb?text=The%20Legend%20of%20Zelda:%20Tears%20of%20the%20Kingdom",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Jelajahi Hyrule dan pulau-pulau di langit dengan kemampuan kreatif untuk memecahkan teka-teki.",
+    "tags": [
+      "Adventure",
+      "Open World",
+      "Puzzle"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle",
+      "Sandbox"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Animal Crossing: New Horizons",
+    "genre": "Simulation",
+    "rating": 8.8,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "release": "20 March 2020",
+    "image": "https://placehold.co/600x900/111827/e5e7eb?text=Animal%20Crossing:%20New%20Horizons",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Bangun pulau impian, dekorasi rumah, dan berinteraksi dengan tetangga hewan yang menggemaskan.",
+    "tags": [
+      "Life Sim",
+      "Relaxing",
+      "Creative"
+    ],
+    "genres": [
+      "Simulation",
+      "Casual",
+      "Sandbox"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Super Mario Odyssey",
+    "genre": "Action",
+    "rating": 9.2,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "release": "27 October 2017",
+    "image": "https://placehold.co/600x900/111827/e5e7eb?text=Super%20Mario%20Odyssey",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Bergabung dengan Mario dalam petualangan platforming penuh rahasia dan dunia unik.",
+    "tags": [
+      "Platformer",
+      "Adventure",
+      "Family"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "League of Legends",
+    "genre": "Action",
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "27 October 2009",
+    "image": "https://placehold.co/600x900/111827/e5e7eb?text=League%20of%20Legends",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "Pilih champion dan bekerja sama dalam pertarungan strategi 5 lawan 5.",
+    "tags": [
+      "MOBA",
+      "Strategy",
+      "Competitive"
+    ],
+    "genres": [
+      "Action",
+      "Strategy",
+      "RPG"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Valorant",
+    "genre": "Action",
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2 June 2020",
+    "image": "https://placehold.co/600x900/111827/e5e7eb?text=Valorant",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (perkiraan regional)",
+    "description": "FPS taktis 5v5 yang menggabungkan tembakan presisi dengan kemampuan agen unik.",
+    "tags": [
+      "FPS",
+      "Tactical",
+      "Competitive"
+    ],
+    "genres": [
+      "Action",
+      "Shooter",
+      "Strategy"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Half-Life 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Adventure"
+    ],
+    "rating": 9.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "1998-11-16",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/220/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "FPS classic dengan narasi kuat dan fisika inovatif.",
+    "tags": [
+      "FPS",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Left 4 Dead 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Horror",
+      "Survival"
+    ],
+    "rating": 9.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2009-11-17",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/550/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Co-op melawan gerombolan zombie dengan kampanye dan mode versus.",
+    "tags": [
+      "Co-op",
+      "Zombie"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Team Fortress 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Casual"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2007-10-10",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/440/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Shooter tim berbasis kelas dengan gaya kartun dan banyak mode.",
+    "tags": [
+      "Team-Based",
+      "FPS"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Warframe",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "RPG",
+      "MMO"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-03-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/230410/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Aksi sci-fi gratis dengan misi kooperatif, kustomisasi, dan loot.",
+    "tags": [
+      "Free to Play",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Path of Exile",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-10-23",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/238960/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Action RPG gratis dengan build karakter mendalam dan endgame luas.",
+    "tags": [
+      "Free to Play",
+      "Action RPG"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Path of Exile 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-12-06",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2694490/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Action RPG dengan pertarungan real-time dan sistem karakter fleksibel.",
+    "tags": [
+      "Action RPG",
+      "Early Access"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Black Myth: Wukong",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-08-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2358720/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Petualangan aksi fantasi yang terinspirasi kisah Journey to the West.",
+    "tags": [
+      "Souls-like",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Lies of P",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "rating": 8.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-09-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1627720/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Soulslike gelap dengan pertarungan presisi dan kisah Pinokio yang dipelintir.",
+    "tags": [
+      "Souls-like",
+      "Dark Fantasy"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Armored Core VI: Fires of Rubicon",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-08-24",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1888160/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pertarungan mech cepat dengan rakitan senjata dan misi taktis.",
+    "tags": [
+      "Mechs",
+      "Customization"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Nioh 2 – The Complete Edition",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-02-05",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325200/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Action RPG berlatar Jepang era samurai dengan loot dan pertarungan menantang.",
+    "tags": [
+      "Souls-like",
+      "Loot"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Lords of the Fallen",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "rating": 7.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-10-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501750/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Jelajahi dua dunia yang saling terhubung dalam petualangan soulslike.",
+    "tags": [
+      "Souls-like",
+      "Dark Fantasy"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Hades II",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG",
+      "Roguelike",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2025-09-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145350/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Roguelike aksi mitologi dengan pertarungan cepat dan progres berulang.",
+    "tags": [
+      "Roguelike",
+      "Mythology"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Risk of Rain 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Roguelike",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-08-11",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/632360/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Roguelike third-person dengan item yang menumpuk dan co-op.",
+    "tags": [
+      "Roguelike",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Balatro",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Puzzle",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 9.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-02-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2379780/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Deckbuilder poker roguelike yang menggabungkan kombinasi kartu dan strategi.",
+    "tags": [
+      "Deckbuilding",
+      "Roguelike"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Slay the Spire",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Roguelike",
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 9.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-01-23",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/646570/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun deck dan hadapi jalur musuh yang berubah di setiap percobaan.",
+    "tags": [
+      "Deckbuilding",
+      "Turn-Based"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Vampire Survivors",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Roguelike",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-10-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1794680/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Survival bullet-heaven sederhana dengan peningkatan senjata yang adiktif.",
+    "tags": [
+      "Bullet Hell",
+      "Roguelite"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "The Binding of Isaac: Rebirth",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Roguelike",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-11-04",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/250900/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Roguelike aksi dengan item, ruang, dan kombinasi yang sangat beragam.",
+    "tags": [
+      "Roguelike",
+      "Dungeon Crawler"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Enter the Gungeon",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Roguelike",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-04-05",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/311690/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Dungeon crawler bullet hell dengan senjata unik dan bos menantang.",
+    "tags": [
+      "Bullet Hell",
+      "Roguelike"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Cuphead",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Platformer",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-09-29",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer run-and-gun dengan animasi bergaya kartun klasik.",
+    "tags": [
+      "Platformer",
+      "Difficult"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Celeste",
+    "genre": "Platformer",
+    "genres": [
+      "Platformer",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-01-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/504230/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer presisi tentang mendaki gunung dan menghadapi tantangan pribadi.",
+    "tags": [
+      "Precision Platformer",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Ori and the Will of the Wisps",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer"
+    ],
+    "rating": 9.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-03-11",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1057090/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Metroidvania indah dengan eksplorasi, platforming, dan pertarungan.",
+    "tags": [
+      "Metroidvania",
+      "Atmospheric"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "INSIDE",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Platformer",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-06-29",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/304430/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Puzzle platformer sinematik dengan dunia gelap dan cerita tanpa dialog.",
+    "tags": [
+      "Puzzle Platformer",
+      "Atmospheric"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Limbo",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Platformer",
+      "Indie"
+    ],
+    "rating": 8.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2011-08-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/48000/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Puzzle platformer monokrom dengan jebakan dan atmosfer misterius.",
+    "tags": [
+      "Puzzle Platformer",
+      "Atmospheric"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "A Way Out",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-03-23",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222700/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kisah pelarian penjara yang dirancang untuk dimainkan bersama.",
+    "tags": [
+      "Co-op",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Unravel Two",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Platformer",
+      "Puzzle"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-06-09",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1225570/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer puzzle kooperatif tentang dua karakter benang.",
+    "tags": [
+      "Co-op",
+      "Puzzle"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "The Forest",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Survival",
+      "Sandbox",
+      "Adventure"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-05-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/242760/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bertahan hidup di hutan misterius sambil membangun tempat berlindung.",
+    "tags": [
+      "Survival Horror",
+      "Crafting"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "7 Days to Die",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Survival",
+      "Sandbox",
+      "Action"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-07-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/251570/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Survival zombie dengan crafting, pembangunan basis, dan pertahanan gerombolan.",
+    "tags": [
+      "Zombie",
+      "Crafting"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Project Zomboid",
+    "genre": "Survival",
+    "genres": [
+      "Survival",
+      "RPG",
+      "Sandbox",
+      "Simulation",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-11-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Sandbox survival zombie dengan kebutuhan realistis dan dunia terbuka.",
+    "tags": [
+      "Zombie",
+      "Open World"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "DayZ",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Survival",
+      "Shooter"
+    ],
+    "rating": 7.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-12-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/221100/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Survival multiplayer di dunia pasca-apokaliptik yang keras.",
+    "tags": [
+      "Open World",
+      "Multiplayer"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Rust",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Survival",
+      "Sandbox"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-02-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/252490/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun basis, kumpulkan sumber daya, dan bertahan dari pemain lain.",
+    "tags": [
+      "Crafting",
+      "PvP"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "ARK: Survival Evolved",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Survival",
+      "Sandbox"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-08-27",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/346110/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bertahan hidup, menjinakkan dinosaurus, dan membangun markas di pulau.",
+    "tags": [
+      "Dinosaurs",
+      "Crafting"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Subnautica",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Survival",
+      "Sandbox"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-01-23",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/264710/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Eksplorasi samudra alien dan kumpulkan sumber daya untuk bertahan hidup.",
+    "tags": [
+      "Underwater",
+      "Open World"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Subnautica: Below Zero",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Survival",
+      "Sandbox"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-05-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/848450/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Petualangan survival bawah laut di wilayah kutub planet alien.",
+    "tags": [
+      "Underwater",
+      "Exploration"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Raft",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Survival",
+      "Sandbox"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-06-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/648800/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun rakit, jelajahi lautan, dan bertahan bersama teman.",
+    "tags": [
+      "Co-op",
+      "Crafting"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "The Long Dark",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Survival",
+      "Simulation"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-08-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/305620/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Survival realistis melawan dingin, kelaparan, dan alam liar.",
+    "tags": [
+      "Atmospheric",
+      "Exploration"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Euro Truck Simulator 2",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Racing",
+      "Casual"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2012-10-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/227300/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kendarai truk lintas Eropa, kelola perusahaan, dan kirim berbagai muatan.",
+    "tags": [
+      "Driving",
+      "Open World"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "American Truck Simulator",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Racing",
+      "Casual"
+    ],
+    "rating": 8.9,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-02-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/270880/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Jelajahi jalan raya Amerika sebagai pengemudi truk profesional.",
+    "tags": [
+      "Driving",
+      "Relaxing"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Assetto Corsa",
+    "genre": "Racing",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-12-19",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/244210/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Simulator balap dengan fisika berkendara dan dukungan mod yang luas.",
+    "tags": [
+      "Driving",
+      "Realistic"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "F1 24",
+    "genre": "Racing",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "rating": 7.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-05-31",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2488620/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Balapan Formula 1 dengan tim, sirkuit, dan mode karier.",
+    "tags": [
+      "Driving",
+      "Competitive"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Need for Speed Heat",
+    "genre": "Racing",
+    "genres": [
+      "Racing",
+      "Action",
+      "Sports"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-11-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222680/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Balap jalanan siang dan malam dengan kustomisasi mobil.",
+    "tags": [
+      "Cars",
+      "Open World"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Trackmania",
+    "genre": "Racing",
+    "genres": [
+      "Racing",
+      "Sports",
+      "Casual"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-02-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2225070/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Balapan time-trial di lintasan kreatif dan kompetitif.",
+    "tags": [
+      "Time Attack",
+      "Multiplayer"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Cities: Skylines",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Sandbox"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-03-10",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/255710/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun dan kelola kota dengan sistem transportasi dan layanan publik.",
+    "tags": [
+      "City Builder",
+      "Management"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Cities: Skylines II",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Sandbox"
+    ],
+    "rating": 7.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-10-24",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/949230/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Simulator pembangunan kota dengan sistem ekonomi dan infrastruktur.",
+    "tags": [
+      "City Builder",
+      "Management"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Planet Zoo",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Casual"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-11-05",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/703080/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun kebun binatang dan rawat satwa dengan kebutuhan realistis.",
+    "tags": [
+      "Management",
+      "Building"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Planet Coaster",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Casual"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-11-17",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/493340/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Rancang taman hiburan, roller coaster, dan kelola pengunjung.",
+    "tags": [
+      "Building",
+      "Management"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Two Point Hospital",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Casual"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-08-30",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/535930/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun rumah sakit komedi dan atur staf serta pasien.",
+    "tags": [
+      "Management",
+      "Funny"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "RimWorld",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Sandbox",
+      "Indie"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-10-17",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/294100/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kelola koloni luar angkasa dengan cerita yang muncul dari sistem simulasi.",
+    "tags": [
+      "Colony Sim",
+      "Base Building"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Factorio",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Sandbox",
+      "Indie"
+    ],
+    "rating": 9.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-08-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/427520/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun pabrik otomatis dan optimalkan rantai produksi di planet asing.",
+    "tags": [
+      "Automation",
+      "Building"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Satisfactory",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Sandbox"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-09-10",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/526870/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun pabrik 3D di planet asing dan otomatisasi produksi.",
+    "tags": [
+      "Automation",
+      "Exploration"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Dyson Sphere Program",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Sandbox",
+      "Indie"
+    ],
+    "rating": 9.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-01-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Rancang jaringan pabrik antarbintang untuk membangun bola Dyson.",
+    "tags": [
+      "Automation",
+      "Space"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Oxygen Not Included",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Sandbox",
+      "Indie"
+    ],
+    "rating": 8.9,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-07-30",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/457140/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kelola koloni bawah tanah dengan oksigen, suhu, dan sumber daya terbatas.",
+    "tags": [
+      "Colony Sim",
+      "Resource Management"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Civilization VI",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-10-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/289070/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pimpin peradaban dari zaman kuno hingga era modern melalui diplomasi dan perang.",
+    "tags": [
+      "Turn-Based Strategy",
+      "4X"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Age of Empires II: Definitive Edition",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-11-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/813780/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Strategi real-time klasik dengan peradaban, ekonomi, dan pertempuran bersejarah.",
+    "tags": [
+      "RTS",
+      "Historical"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Age of Empires IV",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-10-28",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1466860/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun ekonomi dan pimpin pasukan dalam strategi real-time abad pertengahan.",
+    "tags": [
+      "RTS",
+      "Historical"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Total War: WARHAMMER III",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-02-17",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1142710/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Strategi perang skala besar dengan kampanye fantasi dan pertempuran real-time.",
+    "tags": [
+      "Strategy",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "XCOM 2",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "RPG"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-02-04",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/268500/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pimpin perlawanan manusia melawan alien dalam pertarungan taktis berbasis giliran.",
+    "tags": [
+      "Turn-Based Tactics",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Into the Breach",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-02-27",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/590380/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Strategi taktis ringkas untuk melindungi kota dari monster raksasa.",
+    "tags": [
+      "Turn-Based Tactics",
+      "Mechs"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Frostpunk",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Survival"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-04-24",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/323190/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pimpin kota terakhir di dunia beku dan ambil keputusan moral sulit.",
+    "tags": [
+      "City Builder",
+      "Survival"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Frostpunk 2",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Survival"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-09-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1601580/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kelola kota besar di tengah krisis sumber daya dan konflik politik.",
+    "tags": [
+      "City Builder",
+      "Management"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Disco Elysium - The Final Cut",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 9.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-10-15",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG detektif dengan dialog bercabang, investigasi, dan pilihan karakter.",
+    "tags": [
+      "Detective",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Mass Effect Legendary Edition",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Action",
+      "Shooter",
+      "Adventure"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-05-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1328670/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Trilogi RPG sci-fi dengan pilihan cerita dan pertempuran skuad.",
+    "tags": [
+      "Space",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Dragon Age: Inquisition",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Action",
+      "Adventure"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-11-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222690/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pimpin Inkuisisi untuk menghadapi ancaman besar di dunia fantasi.",
+    "tags": [
+      "Fantasy",
+      "Party-Based RPG"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Kingdom Come: Deliverance",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "rating": 8.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-02-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/379430/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG dunia terbuka realistis berlatar Bohemia abad pertengahan.",
+    "tags": [
+      "Historical",
+      "First-Person"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Divinity: Original Sin 2",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-09-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/435150/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG taktis berbasis giliran dengan kebebasan pilihan dan co-op.",
+    "tags": [
+      "Turn-Based Combat",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Undertale",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 9.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-09-15",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/391540/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG unik yang memungkinkan pemain menyelesaikan konflik tanpa membunuh.",
+    "tags": [
+      "Pixel Graphics",
+      "Choices Matter"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Deltarune",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2025-06-04",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1671210/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG episodik dengan karakter unik, pertarungan dan pilihan cerita.",
+    "tags": [
+      "Pixel Graphics",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "OMORI",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Horror",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-12-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1150690/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG psikologis dengan dunia mimpi, eksplorasi, dan cerita emosional.",
+    "tags": [
+      "Psychological Horror",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Doki Doki Literature Club Plus!",
+    "genre": "Visual Novel",
+    "genres": [
+      "Visual Novel",
+      "Horror",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-06-30",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1388880/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Visual novel yang berubah menjadi pengalaman horor psikologis.",
+    "tags": [
+      "Psychological Horror",
+      "Choices Matter"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "The Stanley Parable: Ultra Deluxe",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-04-27",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1703340/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Eksplorasi naratif eksperimental tentang pilihan dan kendali pemain.",
+    "tags": [
+      "Walking Simulator",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Firewatch",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-02-09",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/383870/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Petualangan naratif di hutan Wyoming dengan misteri melalui radio.",
+    "tags": [
+      "Walking Simulator",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "What Remains of Edith Finch",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-04-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/501300/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kumpulan kisah keluarga misterius dalam rumah yang penuh rahasia.",
+    "tags": [
+      "Walking Simulator",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Outer Wilds",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-06-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/753640/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Jelajahi sistem tata surya yang terjebak dalam siklus waktu.",
+    "tags": [
+      "Exploration",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Return of the Obra Dinn",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-10-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/653530/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pecahkan misteri kapal dengan menyimpulkan nasib awaknya dari petunjuk.",
+    "tags": [
+      "Detective",
+      "Investigation"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "The Witness",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 8.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-01-26",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/210970/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pecahkan ratusan teka-teki garis di pulau penuh rahasia.",
+    "tags": [
+      "Open World",
+      "Exploration"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "PowerWash Simulator",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-07-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1290000/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bersihkan berbagai objek dengan pressure washer dalam simulasi santai.",
+    "tags": [
+      "Relaxing",
+      "Cozy"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "House Flipper",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Casual"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-05-17",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/613100/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Renovasi rumah, desain interior, dan jual properti untuk mendapat keuntungan.",
+    "tags": [
+      "Building",
+      "Design"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Unpacking",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Casual",
+      "Simulation",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-11-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1135690/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Susun barang di rumah baru dan temukan cerita lewat benda sehari-hari.",
+    "tags": [
+      "Relaxing",
+      "Cozy"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Dave the Diver",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Simulation",
+      "RPG",
+      "Casual"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-06-28",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Jelajahi laut siang hari dan kelola restoran sushi pada malam hari.",
+    "tags": [
+      "Exploration",
+      "Management"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "DREDGE",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Simulation",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-03-30",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1562430/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Memancing di kepulauan misterius dengan rahasia yang muncul setelah gelap.",
+    "tags": [
+      "Fishing",
+      "Lovecraftian"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Cult of the Lamb",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Roguelike",
+      "Simulation",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-08-11",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1313140/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Gabungkan dungeon aksi dengan pembangunan kultus dan pengelolaan pengikut.",
+    "tags": [
+      "Roguelite",
+      "Base Building"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Don’t Starve Together",
+    "genre": "Survival",
+    "genres": [
+      "Survival",
+      "Adventure",
+      "Sandbox",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-04-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/322330/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Survival co-op bergaya unik dengan crafting, eksplorasi, dan ancaman supernatural.",
+    "tags": [
+      "Co-op",
+      "Crafting"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Core Keeper",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Sandbox",
+      "Survival",
+      "RPG",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-08-27",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1621690/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Gali gua misterius, kumpulkan material, bertani, dan lawan bos bersama teman.",
+    "tags": [
+      "Crafting",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Valheim",
+    "genre": "Survival",
+    "genres": [
+      "Survival",
+      "Sandbox",
+      "Adventure",
+      "RPG"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-02-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/892970/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Survival Viking dengan eksplorasi, pembangunan, crafting, dan bos mitologi.",
+    "tags": [
+      "Open World",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Palworld",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Survival",
+      "Sandbox"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-01-19",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Tangkap makhluk, bangun basis, dan jelajahi dunia terbuka bersama teman.",
+    "tags": [
+      "Creature Collector",
+      "Open World"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Enshrouded",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Survival",
+      "Sandbox"
+    ],
+    "rating": 8.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-01-24",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203620/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Jelajahi dunia fantasi berkabut, bangun rumah, dan kembangkan karakter.",
+    "tags": [
+      "Crafting",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Palia",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Adventure",
+      "Casual"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-03-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2707930/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Game komunitas santai dengan berkebun, memancing, crafting, dan dekorasi rumah.",
+    "tags": [
+      "Cozy",
+      "Life Sim"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Disney Dreamlight Valley",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Adventure",
+      "Casual"
+    ],
+    "rating": 8.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-12-05",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1401590/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun lembah bersama karakter Disney melalui quest dan aktivitas santai.",
+    "tags": [
+      "Life Sim",
+      "Cozy"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "The Elder Scrolls Online",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Action",
+      "MMO"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-04-04",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/306130/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "MMORPG berlatar Tamriel dengan quest, dungeon, dan eksplorasi luas.",
+    "tags": [
+      "MMORPG",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Guild Wars 2",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Action",
+      "Adventure",
+      "MMO"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2012-08-28",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1284210/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "MMORPG fantasi dengan event dunia, eksplorasi, dan pertarungan dinamis.",
+    "tags": [
+      "MMORPG",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Final Fantasy XIV Online",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "MMO"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-08-27",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/39210/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "MMORPG dengan cerita panjang, dungeon kooperatif, dan dunia fantasi.",
+    "tags": [
+      "MMORPG",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Black Desert",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG",
+      "Simulation",
+      "MMO"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-05-24",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/582660/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "MMORPG aksi dengan combat cepat, crafting, perdagangan, dan dunia luas.",
+    "tags": [
+      "MMORPG",
+      "Open World"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "PUBG: BATTLEGROUNDS",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Strategy"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-12-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/578080/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Battle royale taktis dengan looting, kendaraan, dan pertarungan bertahan hidup.",
+    "tags": [
+      "Battle Royale",
+      "PvP"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "THE FINALS",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-12-07",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2073850/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Shooter tim dengan arena yang dapat dihancurkan dan pertandingan cepat.",
+    "tags": [
+      "FPS",
+      "Destruction"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "War Thunder",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Shooter"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-08-15",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/236390/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pertempuran kendaraan militer udara, darat, dan laut.",
+    "tags": [
+      "Military",
+      "Vehicles"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "World of Tanks Blitz",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-11-09",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/444200/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pertempuran tank multiplayer dalam pertandingan singkat.",
+    "tags": [
+      "PvP",
+      "Military"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Brawlhalla",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Fighting",
+      "Casual"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-10-17",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/291550/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Fighting platformer gratis dengan karakter lintas tema dan multiplayer.",
+    "tags": [
+      "Free to Play",
+      "Local Multiplayer"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Street Fighter 6",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Fighting",
+      "Sports"
+    ],
+    "rating": 8.9,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-06-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Fighting game dengan sistem pertarungan modern dan mode online.",
+    "tags": [
+      "Competitive",
+      "2D Fighter"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Tekken 8",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Fighting",
+      "Sports"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-01-26",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1778820/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pertarungan 3D dengan karakter beragam dan sistem Heat baru.",
+    "tags": [
+      "3D Fighter",
+      "Competitive"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Mortal Kombat 1",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-09-19",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Fighting game dengan kombo, fatality, dan mode cerita sinematik.",
+    "tags": [
+      "2D Fighter",
+      "Violent"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Guilty Gear -Strive-",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-06-11",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384160/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Fighting game bergaya anime dengan sistem pertarungan teknis.",
+    "tags": [
+      "Anime",
+      "2D Fighter"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Geometry Dash",
+    "genre": "Platformer",
+    "genres": [
+      "Platformer",
+      "Puzzle",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-12-22",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/322170/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer ritme dengan level presisi dan editor buatan komunitas.",
+    "tags": [
+      "Rhythm",
+      "Difficult"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Muse Dash",
+    "genre": "Casual",
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "rating": 8.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-06-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/774171/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Game ritme penuh warna yang menggabungkan musik dan aksi.",
+    "tags": [
+      "Rhythm",
+      "Anime"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Beat Saber",
+    "genre": "Casual",
+    "genres": [
+      "Casual",
+      "Sports"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-05-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/620980/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Game ritme VR dengan tebasan saber mengikuti irama musik.",
+    "tags": [
+      "VR",
+      "Rhythm"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Keep Talking and Nobody Explodes",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-10-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/341800/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Satu pemain menjinakkan bom sementara teman membaca manual petunjuk.",
+    "tags": [
+      "Co-op",
+      "Party Game"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Human: Fall Flat",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Platformer",
+      "Casual"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-07-22",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/477160/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Puzzle platformer fisika dengan karakter goyah dan level kreatif.",
+    "tags": [
+      "Physics",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Gang Beasts",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Fighting",
+      "Casual"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-12-12",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/285900/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pertarungan party dengan karakter karet dan arena berbahaya.",
+    "tags": [
+      "Party Game",
+      "Local Multiplayer"
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Overcooked! 2",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Casual",
+      "Strategy"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-08-07",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/728880/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Masak bersama teman dalam dapur kacau yang menuntut koordinasi.",
+    "tags": [
+      "Co-op",
+      "Party Game"
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Golf With Your Friends",
+    "genre": "Sports",
+    "genres": [
+      "Sports",
+      "Casual"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-05-19",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/431240/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Mini golf multiplayer dengan lintasan kreatif dan power-up.",
+    "tags": [
+      "Mini Golf",
+      "Multiplayer"
+    ]
+  },
+  {
+    "id": 159,
+    "title": "PGA TOUR 2K23",
+    "genre": "Sports",
+    "genres": [
+      "Sports",
+      "Simulation"
+    ],
+    "rating": 7.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-10-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1588010/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Simulator golf dengan lapangan resmi, karier, dan editor lapangan.",
+    "tags": [
+      "Golf",
+      "Realistic"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "WWE 2K24",
+    "genre": "Sports",
+    "genres": [
+      "Sports",
+      "Fighting"
+    ],
+    "rating": 7.9,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-03-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2315690/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Game gulat dengan roster pegulat, mode karier, dan pertandingan klasik.",
+    "tags": [
+      "Wrestling",
+      "Sports"
+    ]
+  },
+  {
+    "id": 161,
+    "title": "HITMAN World of Assassination",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Stealth"
+    ],
+    "rating": 8.9,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-01-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Sandbox pembunuh bayaran dengan banyak cara menyelesaikan misi.",
+    "tags": [
+      "Stealth",
+      "Sandbox"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Stealth"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-09-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/287700/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Aksi stealth dunia terbuka dengan infiltrasi dan basis operasional.",
+    "tags": [
+      "Stealth",
+      "Open World"
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Sniper Elite 5",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Stealth"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-05-26",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1029690/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Shooter taktis dengan misi infiltrasi dan tembakan jarak jauh.",
+    "tags": [
+      "Sniper",
+      "Tactical"
+    ]
+  },
+  {
+    "id": 164,
+    "title": "PAYDAY 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Strategy"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-08-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/218620/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Lakukan perampokan kooperatif dengan perencanaan, stealth, atau aksi terbuka.",
+    "tags": [
+      "Co-op",
+      "Heist"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Ready or Not",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Simulation"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-12-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1144200/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Shooter taktis sebagai tim SWAT dengan prosedur dan misi berisiko tinggi.",
+    "tags": [
+      "Tactical",
+      "FPS"
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Insurgency: Sandstorm",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-12-12",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/581320/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Shooter taktis dengan pertempuran jarak dekat dan koordinasi tim.",
+    "tags": [
+      "FPS",
+      "Realistic"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "BattleBit Remastered",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-06-15",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/671860/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "FPS multiplayer skala besar dengan kelas, kendaraan, dan lingkungan hancur.",
+    "tags": [
+      "FPS",
+      "Destruction"
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Deep Rock Galactic",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-05-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/548430/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kurcaci penambang menjelajahi gua prosedural dalam misi co-op.",
+    "tags": [
+      "Co-op",
+      "Procedural Generation"
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Lethal Company",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Survival",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-10-23",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1966720/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kumpulkan barang rongsokan di fasilitas terbengkalai sambil menghindari monster.",
+    "tags": [
+      "Co-op",
+      "Horror"
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Content Warning",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 8.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-04-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2881650/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Rekam kejadian menyeramkan bersama teman demi mendapatkan penonton.",
+    "tags": [
+      "Co-op",
+      "Funny"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "The Outlast Trials",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Survival",
+      "Action"
+    ],
+    "rating": 8.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-03-05",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1304930/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bertahan dari eksperimen mengerikan sendiri atau bersama teman.",
+    "tags": [
+      "Psychological Horror",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 172,
+    "title": "SOMA",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-09-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/282140/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Horor sci-fi naratif yang mempertanyakan kesadaran dan identitas manusia.",
+    "tags": [
+      "Psychological Horror",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Amnesia: The Dark Descent",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2010-09-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/57300/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Horor first-person dengan eksplorasi gelap dan pelarian dari ancaman.",
+    "tags": [
+      "Psychological Horror",
+      "First-Person"
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Alien: Isolation",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Survival"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-10-06",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/214490/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bertahan dari Xenomorph yang memburu pemain di stasiun luar angkasa.",
+    "tags": [
+      "Stealth",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Dead Space",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Horror",
+      "Shooter",
+      "Survival"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-01-27",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1693980/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Remake survival horror sci-fi di kapal luar angkasa yang mencekam.",
+    "tags": [
+      "Survival Horror",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "The Callisto Protocol",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Horror",
+      "Adventure"
+    ],
+    "rating": 7.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-12-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1544020/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bertahan hidup dari makhluk mengerikan di penjara luar angkasa.",
+    "tags": [
+      "Survival Horror",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Alan Wake",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2012-02-16",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/108710/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Penulis mencari istrinya di kota misterius yang dipenuhi kegelapan.",
+    "tags": [
+      "Psychological Horror",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Alan Wake 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2025-10-22",
+    "image": "https://placehold.co/460x215/111827/e5e7eb?text=Alan%20Wake%202",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Survival horror naratif dengan dua karakter dan misteri supernatural.",
+    "tags": [
+      "Psychological Horror",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "The Evil Within 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Survival"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-10-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/601430/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Jelajahi dunia mimpi buruk untuk menyelamatkan putri dalam survival horror.",
+    "tags": [
+      "Survival Horror",
+      "Psychological Horror"
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Little Nightmares II",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Horror",
+      "Platformer"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-02-11",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/860510/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Petualangan horor platformer dengan teka-teki dan makhluk mengerikan.",
+    "tags": [
+      "Puzzle Platformer",
+      "Atmospheric"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "The Mortuary Assistant",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Simulation",
+      "Indie"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-08-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1295920/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Lakukan pekerjaan kamar mayat sambil menghadapi kejadian supernatural.",
+    "tags": [
+      "Psychological Horror",
+      "First-Person"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Five Nights at Freddy’s: Security Breach",
+    "genre": "Horror",
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Action"
+    ],
+    "rating": 7.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-12-16",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/747660/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bertahan semalaman di pusat hiburan dengan animatronik yang memburu.",
+    "tags": [
+      "Stealth",
+      "Survival Horror"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Papers, Please",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-08-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/239030/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Periksa dokumen imigran dan ambil keputusan di perbatasan negara fiktif.",
+    "tags": [
+      "Management",
+      "Choices Matter"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Not Tonight",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "RPG",
+      "Indie"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-08-17",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/733790/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kelola pekerjaan penjaga pintu dalam distopia politik.",
+    "tags": [
+      "Management",
+      "Choices Matter"
+    ]
+  },
+  {
+    "id": 185,
+    "title": "This War of Mine",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Survival"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-11-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/282070/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kelola kelompok warga sipil yang berjuang bertahan hidup di kota perang.",
+    "tags": [
+      "Survival",
+      "Choices Matter"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Mini Metro",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Puzzle",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-11-06",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/287980/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Rancang jalur kereta bawah tanah untuk memenuhi kebutuhan kota yang berkembang.",
+    "tags": [
+      "Minimalist",
+      "Management"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Mini Motorways",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Puzzle",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-07-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Rancang jalan raya agar kota yang berkembang tidak mengalami kemacetan.",
+    "tags": [
+      "Minimalist",
+      "Management"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Dorfromantik",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Strategy",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-04-28",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1455840/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Susun ubin lanskap untuk membangun desa dan alam yang menenangkan.",
+    "tags": [
+      "Relaxing",
+      "Building"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "The Talos Principle 2",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-11-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/835960/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pecahkan teka-teki filosofis di dunia robot dan peradaban baru.",
+    "tags": [
+      "First-Person",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Baba Is You",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-03-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/736260/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Ubah aturan level dengan memindahkan kata untuk memecahkan puzzle.",
+    "tags": [
+      "Logic",
+      "Difficult"
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Human Resource Machine",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-10-15",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/375820/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pecahkan puzzle pemrograman dengan menyusun instruksi sederhana.",
+    "tags": [
+      "Programming",
+      "Logic"
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Kerbal Space Program",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Sandbox",
+      "Strategy"
+    ],
+    "rating": 9.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-04-27",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/220200/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Rancang roket dan jalankan program antariksa dengan fisika realistis.",
+    "tags": [
+      "Space",
+      "Physics"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Microsoft Flight Simulator",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Casual"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-08-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250410/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Terbang melintasi dunia dengan simulasi penerbangan yang mendetail.",
+    "tags": [
+      "Flight",
+      "Realistic"
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Fishing Planet",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Sports",
+      "Casual"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-08-11",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/380600/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Simulator memancing gratis dengan lokasi, alat, dan spesies ikan beragam.",
+    "tags": [
+      "Fishing",
+      "Free to Play"
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Bloons TD 6",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-12-17",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/960090/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Tower defense dengan menara monyet, upgrade, dan banyak peta.",
+    "tags": [
+      "Tower Defense",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Plants vs. Zombies GOTY Edition",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Casual"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2009-05-05",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/3590/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pertahankan rumah dengan tanaman unik melawan gelombang zombie.",
+    "tags": [
+      "Tower Defense",
+      "Funny"
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Kingdom Rush",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Casual"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-01-06",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/246420/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Tower defense fantasi dengan menara, pahlawan, dan musuh beragam.",
+    "tags": [
+      "Tower Defense",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Inscryption",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Puzzle",
+      "Horror",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-10-19",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Permainan kartu gelap yang menyembunyikan teka-teki dan rahasia.",
+    "tags": [
+      "Card Game",
+      "Psychological Horror"
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Monster Train",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Roguelike",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-05-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1102190/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Deckbuilder roguelike dengan pertahanan bertingkat dan kombinasi unit.",
+    "tags": [
+      "Deckbuilding",
+      "Roguelike"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Yu-Gi-Oh! Master Duel",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Casual"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-01-19",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1449850/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Game kartu duel digital dengan ribuan kartu dan mode online.",
+    "tags": [
+      "Card Game",
+      "Free to Play"
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Magic: The Gathering Arena",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Casual"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-05-23",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2141910/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kumpulkan kartu dan bertanding dalam permainan strategi berbasis kartu.",
+    "tags": [
+      "Trading Card Game",
+      "Free to Play"
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Genshin Impact",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure",
+      "Open World"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Mobile"
+    ],
+    "release": "2020-09-28",
+    "image": "https://placehold.co/460x215/111827/e5e7eb?text=Genshin%20Impact",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG aksi dunia terbuka dengan eksplorasi, elemen, dan karakter koleksi.",
+    "tags": [
+      "Anime",
+      "Open World"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Honkai: Star Rail",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Adventure"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Mobile"
+    ],
+    "release": "2023-04-26",
+    "image": "https://placehold.co/460x215/111827/e5e7eb?text=Honkai:%20Star%20Rail",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG sci-fi berbasis giliran dengan karakter dan cerita antarbintang.",
+    "tags": [
+      "Turn-Based Combat",
+      "Anime"
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Zenless Zone Zero",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Mobile"
+    ],
+    "release": "2024-07-04",
+    "image": "https://placehold.co/460x215/111827/e5e7eb?text=Zenless%20Zone%20Zero",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Action RPG bergaya urban-fantasy dengan pertarungan cepat dan karakter unik.",
+    "tags": [
+      "Anime",
+      "Action RPG"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "The First Descendant",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "RPG"
+    ],
+    "rating": 7.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-06-30",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2074920/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Looter shooter kooperatif dengan karakter, boss, dan perlengkapan.",
+    "tags": [
+      "Co-op",
+      "Looter Shooter"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Once Human",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Survival",
+      "Shooter",
+      "Sandbox"
+    ],
+    "rating": 7.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-07-09",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2139460/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Survival multiplayer di dunia pasca-apokaliptik yang dipenuhi anomali.",
+    "tags": [
+      "Open World",
+      "Crafting"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Throne and Liberty",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Action"
+    ],
+    "rating": 7.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-10-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2429640/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "MMORPG fantasi dengan pertempuran skala besar dan eksplorasi.",
+    "tags": [
+      "MMORPG",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Lost Ark",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure",
+      "MMO"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-02-11",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1599340/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Action MMORPG dengan dungeon, raid, dan pertarungan isometrik.",
+    "tags": [
+      "MMORPG",
+      "Action RPG"
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Teamfight Tactics",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Casual"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-06-26",
+    "image": "https://placehold.co/460x215/111827/e5e7eb?text=Teamfight%20Tactics",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Auto-battler strategi dengan kombinasi unit dan komposisi tim.",
+    "tags": [
+      "Auto Battler",
+      "Competitive"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Among Us",
+    "genre": "Casual",
+    "genres": [
+      "Casual",
+      "Strategy",
+      "Indie"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-11-16",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/945360/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Temukan impostor di antara kru dalam game deduksi sosial.",
+    "tags": [
+      "Social Deduction",
+      "Multiplayer"
+    ]
+  },
+  {
+    "id": 211,
+    "title": "Fall Guys",
+    "genre": "Casual",
+    "genres": [
+      "Casual",
+      "Sports",
+      "Indie"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-08-04",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1097150/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kompetisi party platformer penuh rintangan dan tantangan lucu.",
+    "tags": [
+      "Battle Royale",
+      "Party Game"
+    ]
+  },
+  {
+    "id": 212,
+    "title": "Pummel Party",
+    "genre": "Casual",
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-09-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/880940/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Party game dengan papan permainan, mini-game, dan sabotase teman.",
+    "tags": [
+      "Party Game",
+      "Local Multiplayer"
+    ]
+  },
+  {
+    "id": 213,
+    "title": "The Jackbox Party Pack 10",
+    "genre": "Casual",
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-10-19",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2216830/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kumpulan permainan pesta berbasis pertanyaan, gambar, dan kreativitas.",
+    "tags": [
+      "Party Game",
+      "Trivia"
+    ]
+  },
+  {
+    "id": 214,
+    "title": "Portal",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Platformer",
+      "Indie"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2007-10-10",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/400/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pecahkan teka-teki ruang menggunakan portal dan fisika.",
+    "tags": [
+      "First-Person",
+      "Logic"
+    ]
+  },
+  {
+    "id": 215,
+    "title": "The Elder Scrolls IV: Oblivion Remastered",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2025-04-22",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2623190/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kembali ke Cyrodiil dalam RPG fantasi dunia terbuka yang diperbarui.",
+    "tags": [
+      "Fantasy",
+      "Open World"
+    ]
+  },
+  {
+    "id": 216,
+    "title": "Horizon Forbidden West Complete Edition",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Open World"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-03-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2420110/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Aloy menjelajahi wilayah baru dan menghadapi mesin berbahaya.",
+    "tags": [
+      "Open World",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 217,
+    "title": "Days Gone",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Survival",
+      "Open World"
+    ],
+    "rating": 8.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-05-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1259420/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bertahan di dunia pasca-apokaliptik dengan sepeda motor dan gerombolan zombie.",
+    "tags": [
+      "Open World",
+      "Zombie"
+    ]
+  },
+  {
+    "id": 218,
+    "title": "UNCHARTED: Legacy of Thieves Collection",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "rating": 8.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-10-19",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1659420/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Petualangan sinematik dengan eksplorasi, teka-teki, dan baku tembak.",
+    "tags": [
+      "Story Rich",
+      "Third-Person Shooter"
+    ]
+  },
+  {
+    "id": 219,
+    "title": "Detroit: Become Human",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-06-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222140/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Drama interaktif tentang android dengan pilihan yang mengubah jalan cerita.",
+    "tags": [
+      "Choices Matter",
+      "Multiple Endings"
+    ]
+  },
+  {
+    "id": 220,
+    "title": "Heavy Rain",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-06-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/960910/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Thriller interaktif dengan keputusan yang memengaruhi nasib karakter.",
+    "tags": [
+      "Choices Matter",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Beyond: Two Souls",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-06-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/960990/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Drama interaktif tentang seorang perempuan yang terhubung dengan entitas misterius.",
+    "tags": [
+      "Story Rich",
+      "Choices Matter"
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Tomb Raider (2013)",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-03-05",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/203160/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Asal-usul Lara Croft dalam petualangan bertahan hidup dan eksplorasi makam.",
+    "tags": [
+      "Exploration",
+      "Third-Person Shooter"
+    ]
+  },
+  {
+    "id": 223,
+    "title": "Rise of the Tomb Raider",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-01-28",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/391220/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Jelajahi makam dan wilayah bersalju dalam petualangan Lara Croft.",
+    "tags": [
+      "Exploration",
+      "Third-Person Shooter"
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Shadow of the Tomb Raider",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-09-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/750920/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Petualangan Lara Croft dengan makam, stealth, dan eksplorasi hutan.",
+    "tags": [
+      "Exploration",
+      "Stealth"
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Batman: Arkham Knight",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-06-23",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/208650/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Lindungi Gotham dengan pertarungan, stealth, dan Batmobile.",
+    "tags": [
+      "Superhero",
+      "Stealth"
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Middle-earth: Shadow of War",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "rating": 8.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-10-10",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/356190/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Lawan pasukan Sauron dengan sistem musuh Nemesis di dunia Tolkien.",
+    "tags": [
+      "Fantasy",
+      "Open World"
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Mad Max",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing",
+      "Open World"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-09-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/234140/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bertahan di gurun dengan pertarungan kendaraan dan pertempuran jarak dekat.",
+    "tags": [
+      "Vehicular Combat",
+      "Post-apocalyptic"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Sleeping Dogs: Definitive Edition",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-10-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/307690/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Aksi dunia terbuka sebagai polisi penyamaran di Hong Kong.",
+    "tags": [
+      "Crime",
+      "Martial Arts"
+    ]
+  },
+  {
+    "id": 229,
+    "title": "Mafia: Definitive Edition",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-09-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1030840/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kisah kriminal sinematik berlatar kota Amerika era 1930-an.",
+    "tags": [
+      "Crime",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Yakuza 0",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-08-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/638970/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Drama kriminal Jepang dengan pertarungan jalanan dan aktivitas sampingan.",
+    "tags": [
+      "Beat em Up",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Like a Dragon: Infinite Wealth",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Strategy"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-01-26",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2072450/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG berbasis giliran dengan cerita kriminal, aktivitas sampingan, dan eksplorasi.",
+    "tags": [
+      "Turn-Based Combat",
+      "JRPG"
+    ]
+  },
+  {
+    "id": 232,
+    "title": "Persona 3 Reload",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Strategy"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-02-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2161700/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG sekolah dengan eksplorasi dungeon, relasi karakter, dan pertarungan giliran.",
+    "tags": [
+      "JRPG",
+      "Turn-Based Combat"
+    ]
+  },
+  {
+    "id": 233,
+    "title": "Metaphor: ReFantazio",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Strategy"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-10-11",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2679460/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG fantasi dengan pertarungan hibrida dan cerita politik.",
+    "tags": [
+      "JRPG",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 234,
+    "title": "Tales of Arise",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Action",
+      "Adventure"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-09-10",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/740130/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "JRPG aksi tentang dua dunia yang terjebak dalam konflik.",
+    "tags": [
+      "JRPG",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 235,
+    "title": "Octopath Traveler II",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Strategy"
+    ],
+    "rating": 8.9,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-02-24",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1971650/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "JRPG HD-2D dengan delapan protagonis dan sistem pertarungan strategis.",
+    "tags": [
+      "JRPG",
+      "Turn-Based Combat"
+    ]
+  },
+  {
+    "id": 236,
+    "title": "Sea of Stars",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-08-29",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244090/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG turn-based retro dengan eksplorasi dan cerita fantasi.",
+    "tags": [
+      "JRPG",
+      "Pixel Graphics"
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Chained Echoes",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Indie"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-12-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1229240/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "JRPG indie dengan pixel art, mech, dan pertarungan turn-based.",
+    "tags": [
+      "JRPG",
+      "Pixel Graphics"
+    ]
+  },
+  {
+    "id": 238,
+    "title": "Grim Dawn",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "rating": 8.9,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-02-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/219990/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Action RPG gelap dengan loot, build karakter, dan dunia pasca-apokaliptik.",
+    "tags": [
+      "Action RPG",
+      "Dark Fantasy"
+    ]
+  },
+  {
+    "id": 239,
+    "title": "Torchlight II",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2012-09-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/200710/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Action RPG dengan dungeon, loot, pet, dan co-op.",
+    "tags": [
+      "Action RPG",
+      "Loot"
+    ]
+  },
+  {
+    "id": 240,
+    "title": "Warhammer 40,000: Rogue Trader",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Adventure"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-12-07",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2186680/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "RPG taktis berlatar semesta Warhammer 40K dengan keputusan kompleks.",
+    "tags": [
+      "CRPG",
+      "Turn-Based Combat"
+    ]
+  },
+  {
+    "id": 241,
+    "title": "Wartales",
+    "genre": "RPG",
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Adventure"
+    ],
+    "rating": 8.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-04-12",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1527950/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pimpin kelompok tentara bayaran dalam dunia abad pertengahan terbuka.",
+    "tags": [
+      "Turn-Based Combat",
+      "Open World"
+    ]
+  },
+  {
+    "id": 242,
+    "title": "Mount & Blade II: Bannerlord",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "RPG",
+      "Strategy",
+      "Simulation"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-10-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/261550/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun klan dan pimpin pasukan dalam sandbox perang abad pertengahan.",
+    "tags": [
+      "Medieval",
+      "Sandbox"
+    ]
+  },
+  {
+    "id": 243,
+    "title": "Crusader Kings III",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Simulation",
+      "RPG"
+    ],
+    "rating": 8.9,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-09-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kelola dinasti, diplomasi, perang, dan intrik politik lintas generasi.",
+    "tags": [
+      "Grand Strategy",
+      "Medieval"
+    ]
+  },
+  {
+    "id": 244,
+    "title": "Europa Universalis IV",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-08-13",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/236850/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Pimpin negara dalam strategi sejarah yang berfokus pada diplomasi dan ekonomi.",
+    "tags": [
+      "Grand Strategy",
+      "Historical"
+    ]
+  },
+  {
+    "id": 245,
+    "title": "Hearts of Iron IV",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-06-06",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/394360/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Atur industri, diplomasi, dan operasi militer dalam Perang Dunia II.",
+    "tags": [
+      "Grand Strategy",
+      "War"
+    ]
+  },
+  {
+    "id": 246,
+    "title": "Stellaris",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Simulation",
+      "Sandbox"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-05-09",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/281990/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun imperium antarbintang melalui eksplorasi, diplomasi, dan perang.",
+    "tags": [
+      "4X",
+      "Space"
+    ]
+  },
+  {
+    "id": 247,
+    "title": "Against the Storm",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Simulation",
+      "Roguelike"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-12-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1336490/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun permukiman fantasi dalam siklus badai dan tantangan roguelite.",
+    "tags": [
+      "City Builder",
+      "Roguelite"
+    ]
+  },
+  {
+    "id": 248,
+    "title": "Manor Lords",
+    "genre": "Strategy",
+    "genres": [
+      "Strategy",
+      "Simulation",
+      "Sandbox"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-04-26",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1363080/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun desa abad pertengahan dan kelola ekonomi serta pertempuran taktis.",
+    "tags": [
+      "City Builder",
+      "Historical"
+    ]
+  },
+  {
+    "id": 249,
+    "title": "Banished",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Sandbox"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-02-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/242920/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kelola komunitas pengasingan dengan sumber daya dan musim yang menantang.",
+    "tags": [
+      "City Builder",
+      "Survival"
+    ]
+  },
+  {
+    "id": 250,
+    "title": "Prison Architect",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Sandbox"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-10-06",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/233450/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun dan kelola penjara dengan sistem keamanan dan kebutuhan narapidana.",
+    "tags": [
+      "Management",
+      "Building"
+    ]
+  },
+  {
+    "id": 251,
+    "title": "Game Dev Tycoon",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 8.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-08-29",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/239820/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun studio game dan kembangkan judul dari era komputer awal.",
+    "tags": [
+      "Management",
+      "Business"
+    ]
+  },
+  {
+    "id": 252,
+    "title": "Software Inc.",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Indie"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2015-05-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/362620/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kelola perusahaan perangkat lunak, tim, produk, dan kantor.",
+    "tags": [
+      "Management",
+      "Business"
+    ]
+  },
+  {
+    "id": 253,
+    "title": "Two Point Campus",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Casual"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-08-09",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649080/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bangun kampus unik dan kelola mahasiswa, staf, serta fasilitas.",
+    "tags": [
+      "Management",
+      "Building"
+    ]
+  },
+  {
+    "id": 254,
+    "title": "House Flipper 2",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Casual"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-12-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1190970/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Renovasi dan desain rumah dengan alat serta sistem bangunan baru.",
+    "tags": [
+      "Building",
+      "Design"
+    ]
+  },
+  {
+    "id": 255,
+    "title": "The Sims 3",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Casual",
+      "Sandbox"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2009-06-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/47890/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Simulasikan kehidupan karakter dengan dunia terbuka dan banyak ekspansi.",
+    "tags": [
+      "Life Sim",
+      "Open World"
+    ]
+  },
+  {
+    "id": 256,
+    "title": "Cities in Motion 2",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "rating": 7.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-04-02",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/225420/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Rancang jaringan transportasi publik dan atur mobilitas kota.",
+    "tags": [
+      "Management",
+      "Transportation"
+    ]
+  },
+  {
+    "id": 257,
+    "title": "Farming Simulator 25",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Casual"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-11-12",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300320/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kelola pertanian dengan mesin, tanaman, ternak, dan peta baru.",
+    "tags": [
+      "Farming Sim",
+      "Realistic"
+    ]
+  },
+  {
+    "id": 258,
+    "title": "Farming Simulator 22",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Casual"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-11-22",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Simulator pertanian dengan kendaraan, ladang, ternak, dan produksi.",
+    "tags": [
+      "Farming Sim",
+      "Management"
+    ]
+  },
+  {
+    "id": 259,
+    "title": "SnowRunner",
+    "genre": "Simulation",
+    "genres": [
+      "Simulation",
+      "Racing",
+      "Adventure"
+    ],
+    "rating": 8.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-05-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Kendarai kendaraan off-road melewati lumpur, salju, dan medan berat.",
+    "tags": [
+      "Driving",
+      "Physics"
+    ]
+  },
+  {
+    "id": 260,
+    "title": "The Crew Motorfest",
+    "genre": "Racing",
+    "genres": [
+      "Racing",
+      "Sports",
+      "Simulation"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-04-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2698940/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Festival balap dunia terbuka dengan koleksi mobil dan berbagai event.",
+    "tags": [
+      "Cars",
+      "Open World"
+    ]
+  },
+  {
+    "id": 261,
+    "title": "Wreckfest",
+    "genre": "Racing",
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "rating": 8.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-06-14",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/228380/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Balapan kontak penuh dengan tabrakan dan kendaraan yang rusak realistis.",
+    "tags": [
+      "Destruction",
+      "Cars"
+    ]
+  },
+  {
+    "id": 262,
+    "title": "Dirt Rally 2.0",
+    "genre": "Racing",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-02-26",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/690790/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Rally simulasi dengan lintasan tanah, cuaca, dan pengendalian menantang.",
+    "tags": [
+      "Rally",
+      "Realistic"
+    ]
+  },
+  {
+    "id": 263,
+    "title": "Hot Wheels Unleashed",
+    "genre": "Racing",
+    "genres": [
+      "Racing",
+      "Sports",
+      "Casual"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-09-30",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1271700/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Balapan mobil mini di lintasan orisinal yang penuh loop dan lompatan.",
+    "tags": [
+      "Arcade Racing",
+      "Cars"
+    ]
+  },
+  {
+    "id": 264,
+    "title": "Sonic Mania",
+    "genre": "Platformer",
+    "genres": [
+      "Platformer",
+      "Action",
+      "Indie"
+    ],
+    "rating": 8.9,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-08-29",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/584400/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer cepat dengan level retro dan karakter Sonic.",
+    "tags": [
+      "2D Platformer",
+      "Retro"
+    ]
+  },
+  {
+    "id": 265,
+    "title": "Shovel Knight: Treasure Trove",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Platformer",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2014-06-26",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/250760/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer aksi retro dengan petualangan ksatria dan bos unik.",
+    "tags": [
+      "2D Platformer",
+      "Retro"
+    ]
+  },
+  {
+    "id": 266,
+    "title": "A Hat in Time",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer",
+      "Indie"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-10-05",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/253230/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer 3D penuh dunia warna-warni, koleksi, dan tantangan.",
+    "tags": [
+      "3D Platformer",
+      "Collectathon"
+    ]
+  },
+  {
+    "id": 267,
+    "title": "Psychonauts 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-08-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/607080/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer petualangan yang menjelajahi pikiran karakter dengan kekuatan psikis.",
+    "tags": [
+      "3D Platformer",
+      "Story Rich"
+    ]
+  },
+  {
+    "id": 268,
+    "title": "Sackboy: A Big Adventure",
+    "genre": "Adventure",
+    "genres": [
+      "Adventure",
+      "Platformer",
+      "Casual"
+    ],
+    "rating": 8.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-10-27",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1599660/header.jpg",
+    "ageRating": "E Everyone",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer 3D penuh kreativitas dengan mode co-op.",
+    "tags": [
+      "3D Platformer",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 269,
+    "title": "LEGO Star Wars: The Skywalker Saga",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-04-05",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/920210/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Jelajahi sembilan film Star Wars dalam petualangan LEGO.",
+    "tags": [
+      "Co-op",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 270,
+    "title": "LEGO Marvel Super Heroes",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2013-10-22",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/249130/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Petualangan LEGO dengan pahlawan Marvel, misi, dan dunia terbuka.",
+    "tags": [
+      "Superhero",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 271,
+    "title": "Sifu",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Fighting",
+      "Adventure"
+    ],
+    "rating": 8.5,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-02-08",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2138710/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Aksi bela diri dengan sistem usia dan pertarungan yang presisi.",
+    "tags": [
+      "Martial Arts",
+      "Difficult"
+    ]
+  },
+  {
+    "id": 272,
+    "title": "Hi-Fi RUSH",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Platformer",
+      "Indie"
+    ],
+    "rating": 9.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-01-25",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1817230/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Aksi ritmis yang menyelaraskan pertarungan dengan musik.",
+    "tags": [
+      "Rhythm",
+      "Stylized"
+    ]
+  },
+  {
+    "id": 273,
+    "title": "Neon White",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Platformer",
+      "Indie"
+    ],
+    "rating": 9.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2022-06-16",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1533420/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platformer FPS cepat yang menggabungkan kartu senjata dan speedrun.",
+    "tags": [
+      "FPS",
+      "Speedrun"
+    ]
+  },
+  {
+    "id": 274,
+    "title": "ULTRAKILL",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Indie"
+    ],
+    "rating": 9.3,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2020-09-03",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1229490/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "FPS retro cepat dengan gerakan agresif dan sistem skor bergaya arcade.",
+    "tags": [
+      "FPS",
+      "Boomer Shooter"
+    ]
+  },
+  {
+    "id": 275,
+    "title": "Titanfall 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 9.1,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-10-28",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1237970/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "FPS dengan kampanye mech dan pilot serta multiplayer cepat.",
+    "tags": [
+      "FPS",
+      "Mechs"
+    ]
+  },
+  {
+    "id": 276,
+    "title": "Battlefield 1",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-10-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1238840/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "FPS Perang Dunia I dengan pertempuran besar dan kampanye naratif.",
+    "tags": [
+      "FPS",
+      "War"
+    ]
+  },
+  {
+    "id": 277,
+    "title": "Battlefield V",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2018-11-20",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1238810/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "FPS Perang Dunia II dengan pertempuran skala besar dan kendaraan.",
+    "tags": [
+      "FPS",
+      "War"
+    ]
+  },
+  {
+    "id": 278,
+    "title": "STAR WARS Jedi: Fallen Order",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "rating": 8.7,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2019-11-15",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1172380/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Petualangan aksi Jedi dengan lightsaber, eksplorasi, dan puzzle.",
+    "tags": [
+      "Souls-like",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 279,
+    "title": "STAR WARS Jedi: Survivor",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-04-28",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1774580/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Lanjutan petualangan Cal Kestis dengan kemampuan dan dunia lebih luas.",
+    "tags": [
+      "Souls-like",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 280,
+    "title": "Marvel Rivals",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-12-06",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2767030/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Hero shooter tim dengan karakter Marvel dan arena yang dapat dihancurkan.",
+    "tags": [
+      "Hero Shooter",
+      "PvP"
+    ]
+  },
+  {
+    "id": 281,
+    "title": "Warhammer 40,000: Space Marine 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2024-09-09",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2183900/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Aksi third-person melawan gerombolan Tyranid sebagai Space Marine.",
+    "tags": [
+      "Third-Person Shooter",
+      "Co-op"
+    ]
+  },
+  {
+    "id": 282,
+    "title": "Killing Floor 2",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Horror"
+    ],
+    "rating": 8.4,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-11-18",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/232090/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Co-op wave shooter melawan monster dengan persenjataan beragam.",
+    "tags": [
+      "Co-op",
+      "Horror"
+    ]
+  },
+  {
+    "id": 283,
+    "title": "World War Z: Aftermath",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Horror",
+      "Survival"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-09-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/699130/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Bertahan dari gerombolan zombie raksasa dalam kampanye kooperatif.",
+    "tags": [
+      "Co-op",
+      "Zombie"
+    ]
+  },
+  {
+    "id": 284,
+    "title": "Back 4 Blood",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Horror",
+      "Survival"
+    ],
+    "rating": 7.6,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2021-10-12",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/924970/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Shooter kooperatif melawan gerombolan monster dengan sistem kartu.",
+    "tags": [
+      "Co-op",
+      "Zombie"
+    ]
+  },
+  {
+    "id": 285,
+    "title": "PAYDAY 3",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Strategy"
+    ],
+    "rating": 6.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2023-09-21",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1272080/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Rencanakan dan jalankan perampokan bersama tim.",
+    "tags": [
+      "Co-op",
+      "Heist"
+    ]
+  },
+  {
+    "id": 286,
+    "title": "Counter-Strike: Source",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2004-11-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/240/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "FPS taktis klasik dengan mode tim dan peta legendaris.",
+    "tags": [
+      "FPS",
+      "Competitive"
+    ]
+  },
+  {
+    "id": 287,
+    "title": "Day of Defeat: Source",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2005-09-26",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/300/header.jpg",
+    "ageRating": "M 17+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Shooter tim berlatar Perang Dunia II.",
+    "tags": [
+      "FPS",
+      "War"
+    ]
+  },
+  {
+    "id": 288,
+    "title": "Garry’s Mod",
+    "genre": "Sandbox",
+    "genres": [
+      "Sandbox",
+      "Casual",
+      "Indie"
+    ],
+    "rating": 9.2,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2006-11-29",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/4000/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Sandbox fisika dengan alat, mode buatan komunitas, dan kreativitas tanpa batas.",
+    "tags": [
+      "Sandbox",
+      "Moddable"
+    ]
+  },
+  {
+    "id": 289,
+    "title": "Unturned",
+    "genre": "Survival",
+    "genres": [
+      "Survival",
+      "Sandbox",
+      "Action",
+      "Indie"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-07-07",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/304930/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Sandbox survival zombie dengan crafting dan multiplayer.",
+    "tags": [
+      "Zombie",
+      "Free to Play"
+    ]
+  },
+  {
+    "id": 290,
+    "title": "VRChat",
+    "genre": "Casual",
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "rating": 8.0,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2017-02-01",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/438100/header.jpg",
+    "ageRating": "T 13+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Ruang sosial virtual dengan avatar dan dunia buatan komunitas.",
+    "tags": [
+      "VR",
+      "Social"
+    ]
+  },
+  {
+    "id": 291,
+    "title": "Rec Room",
+    "genre": "Casual",
+    "genres": [
+      "Casual",
+      "Sports"
+    ],
+    "rating": 7.8,
+    "platforms": [
+      "PC"
+    ],
+    "release": "2016-06-06",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/471710/header.jpg",
+    "ageRating": "E 10+",
+    "ratingSystem": "ESRB (referensi; cek rating resmi wilayah masing-masing)",
+    "description": "Platform sosial dengan mini-game, aktivitas, dan dunia buatan pemain.",
+    "tags": [
+      "VR",
+      "Social"
+    ]
+  }
+]
