@@ -1,74 +1,80 @@
-# GameVault Premium
+# GameVault - Payment Gateway Improvement
 
-Website katalog game dengan HTML, CSS, dan JavaScript. Versi ini memakai **IndexedDB sebagai database lokal di browser**, jadi tidak memerlukan backend atau server database. Katalog awal diimpor dari `data/games.json` ke database browser saat pertama dijalankan; wishlist disimpan sebagai record di IndexedDB, bukan `localStorage`.
+Aplikasi web katalog game interaktif berbasis Client-Side (Single Page Application / SPA) yang memanfaatkan **IndexedDB** untuk penyimpanan data lokal tanpa dependensi backend database MySQL.
 
-> **Penting:** IndexedDB adalah database di perangkat/browser pengguna. Data tidak otomatis tersinkronisasi ke perangkat lain dan dapat hilang jika data situs/browser dihapus. Tanpa backend, database tidak dapat dibagi oleh semua pengguna. `database/schema.mysql.sql` hanya referensi skema jika suatu saat aplikasi dikembangkan dengan backend; file SQL tersebut tidak aktif/terhubung pada versi ini.
+> **Penting:** IndexedDB adalah database di browser pengguna. Data tidak otomatis tersinkronisasi antar perangkat dan dapat hilang jika data situs/browser dihapus.
 
-## Menjalankan website
+---
 
-Dari terminal di folder `GameVault_Frontend`:
+## 🚀 Fitur Utama
 
-```powershell
-npm run dev
-```
+- **Katalog & Detail Game:**
+  - Katalog 291 game unik dengan 21 genre dan dukungan multiple genre per game.
+  - Pencarian global, filter genre & platform, pengurutan rating/nama.
+  - Penilaian aksesibilitas 10 aspek pada detail game.
+  - Manajemen **Wishlist** yang disimpan langsung ke IndexedDB.
 
-Buka `http://localhost:8899`. Alternatif jika Python tersedia:
+- **Langganan Email & Fitur Admin:**
+  - Verifikasi email (passwordless login).
+  - Berlangganan notifikasi game baru dan update topik game favorit.
+  - Dashboard Admin untuk pengelolaan katalog game, topik, subscriber, dan log audit.
 
-```powershell
-npm run dev:python
-```
+- **[NEW] Payment Gateway UI:**
+  - **Simulasi Checkout Game:** Pembelian game langsung dari halaman detail.
+  - **Metode Pembayaran Lengkap:** Pilihan pembayaran via QRIS, E-Wallet (GoPay/OVO/Dana), Transfer Bank (BCA/Mandiri/BNI), dan Kartu Kredit/Debit.
+  - **Kalkulasi Biaya Otomatis:** Menghitung harga game dan biaya penanganan (handling fee) secara otomatis.
+  - **Penyimpanan Transaksi:** Data transaksi disimpan ke object store `purchased` pada IndexedDB (`GameVaultPremiumDB` versi 2).
+  - **Status Kepemilikan (Owned):** Mengubah status tombol menjadi **✓ Owned** secara real-time setelah pembayaran berhasil.
 
-Jangan membuka `index.html` langsung dengan `file://`; browser perlu server lokal agar bisa mengambil file JSON.
+---
 
-## Fitur
+## 🛠️ Teknologi yang Digunakan
 
-- Katalog 291 game unik dengan 21 genre dan dukungan banyak genre per game.
-- Pencarian, filter genre/platform, pengurutan rating/nama, detail game, dan wishlist.
-- Database browser IndexedDB bernama `GameVaultPremiumDB` dengan object store `games`, `wishlist`, dan `settings`.
-- Katalog di-seed dari JSON hanya ketika tabel game di IndexedDB masih kosong.
-- Referensi skema MySQL untuk pengembangan di masa depan, tanpa backend aktif.
-- Test otomatis untuk katalog dan integrasi database.
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+ Native SPA)
+- **Database Lokal:** IndexedDB (`GameVaultPremiumDB`)
+- **Backend Pendukung / Server:** Node.js (HTTP Native Server & Email Notification)
 
-## Struktur proyek
+---
 
-```text
-GameVault_Frontend/
-├── index.html
-├── data/
-│   └── games.json
-├── database/
-│   └── schema.mysql.sql       # referensi saja; tidak aktif tanpa backend
-├── mocks/
-│   └── data-contoh.json
-├── src/
-│   ├── js/
-│   │   ├── database.js        # IndexedDB browser
-│   │   └── script.js          # logika UI
-│   └── css/
-│       └── style.css
-├── tests/
-│   ├── check_catalog.js
-│   └── check_database.js
-├── assets/images/
-├── docs/
-└── package.json
-```
+## 💻 Cara Menjalankan Proyek Secara Lokal
 
-## Memeriksa database
+1. **Clone Repositori:**
+   ```bash
+   git clone https://github.com/ripanipaj/Improve-gamevault-payment.git
+   cd Improve-gamevault-payment
+   ```
 
-1. Jalankan website melalui `npm run dev`.
-2. Buka Developer Tools browser (F12) → **Application** → **IndexedDB**.
-3. Pilih `GameVaultPremiumDB`; periksa `games` dan `wishlist`.
-4. Tambahkan game ke wishlist lalu periksa record di object store `wishlist`.
+2. **Instal Dependensi:**
+   ```bash
+   npm install
+   ```
 
-## Tes
+3. **Inisialisasi Konfigurasi (Opsional):**
+   ```bash
+   npm run setup
+   ```
 
-```powershell
-npm test
-node --check src/js/database.js
-node --check src/js/script.js
-```
+4. **Jalankan Aplikasi:**
+   ```bash
+   npm run dev
+   ```
+   Buka browser dan akses `http://localhost:3000` (atau port yang tertera di terminal).
 
-## Catatan
+---
 
-Rating, deskripsi, tag, dan label usia merupakan data katalog kurasi untuk demonstrasi, bukan feed langsung dari toko game. Gambar cover eksternal memerlukan internet. Referensi skema MySQL bukan database server aktif; untuk akun, sinkronisasi lintas perangkat, atau wishlist per pengguna, aplikasi kelak membutuhkan backend.
+## 🧪 Menguji Fitur & Database
+
+- **Jalankan Pengujian Otomatis:**
+  ```bash
+  npm test
+  ```
+- **Memeriksa IndexedDB di Browser:**
+  1. Buka Developer Tools browser (`F12`) → **Application** → **IndexedDB**.
+  2. Pilih `GameVaultPremiumDB`.
+  3. Periksa object store `games`, `wishlist`, dan `purchased`.
+
+---
+
+## 👤 Kontributor / Author
+
+Fitur **Payment Gateway & IndexedDB Purchased Store** dikembangkan oleh **[rifanipaj](https://github.com/ripanipaj)**.
