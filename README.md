@@ -75,6 +75,9 @@ Aplikasi web katalog game interaktif berbasis Client-Side (Single Page Applicati
 
 ---
 
-## 👤 Kontributor / Author
+## 🧑‍💻 Kontributor / Author
 
-Fitur **Payment Gateway & IndexedDB Purchased Store** dikembangkan oleh **[ripanipaj](https://github.com/ripanipaj)**.
+Proyek ini dikembangkan secara kolaboratif oleh:
+- **[satriafjr](https://github.com/satriafjr)** — Pengembang Base Project GameVault Premium (Katalog Game & Store IndexedDB).
+- **[eyesscube](https://github.com/eyesscube)** — Pengembang GameVault Reborn (Fitur Langganan Email, Aksesibilitas, Admin Dashboard & Server Backend).
+- **[ripanipaj](https://github.com/ripanipaj)** — Pengembang Payment Gateway Improvement (Modal Checkout, Metode Pembayaran, & Integration Store Purchased IndexedDB).
