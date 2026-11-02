@@ -77,4 +77,4 @@ Aplikasi web katalog game interaktif berbasis Client-Side (Single Page Applicati
 
 ## 👤 Kontributor / Author
 
-Fitur **Payment Gateway & IndexedDB Purchased Store** dikembangkan oleh **[rifanipaj](https://github.com/ripanipaj)**.
+Fitur **Payment Gateway & IndexedDB Purchased Store** dikembangkan oleh **[ripanipaj](https://github.com/ripanipaj)**.
